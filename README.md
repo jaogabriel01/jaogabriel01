@@ -2,10 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=970700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+João+Gabriel;I'm+20+years+old;I'm+from+Boa+Viagem,+CE;I+work+with+web+development;And+study+about+embedded+system;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg) 
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaogabriel01&bg_color=000000&color=970700&line=3CB371&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br>
 
 <!-- aaaaa -->
